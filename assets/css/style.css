@@ -1,0 +1,14 @@
+html,body, #container{
+    height: 100%;
+}
+#left-content, #right-content{
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+}
+#left-content{
+    background: url("../imgs/travel_africa_background.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
